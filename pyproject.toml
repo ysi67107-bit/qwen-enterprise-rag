@@ -1,0 +1,6 @@
+[project]
+name = "qwen-enterprise-rag"
+version = "0.1.0"
+description = "Enterprise document retrieval and question answering with Qwen"
+requires-python = ">=3.11,<3.13"
+dependencies = []
